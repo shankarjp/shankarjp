@@ -2,14 +2,16 @@
 <h3 align="center">CSE Undergrad at NIT Trichy</h3>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=I+Solve+Problems+With+Code)](https://git.io/typing-svg)
-##
-
-<h4>
+<h3>
 
 - Pre-final year student at [NIT Trichy](https://www.nitt.edu).
 - Check out my Resumé [here](https://drive.google.com/file/d/1hfV_LfpKvc6jd3SzUK65RBtMYpjzhkfb/view?usp=sharing).
 
-</h4>
+</h3>
+
+##
+
+
 
 [![Shankar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shankarjp&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shankarjp&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
