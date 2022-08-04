@@ -2,12 +2,12 @@
 <h3 align="center">CSE Undergrad at NIT Trichy</h3>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=I+Solve+Problems+With+Code)](https://git.io/typing-svg)
+##
+
 <h4>
-<img src="https://i.imgur.com/LmOlfwe.gif" width="100" height="100" align="right">
 
 - Pre-final year student at [NIT Trichy](https://www.nitt.edu).
 - Check out my Resumé [here](https://drive.google.com/file/d/1hfV_LfpKvc6jd3SzUK65RBtMYpjzhkfb/view?usp=sharing).
-##
 
 </h4>
 
