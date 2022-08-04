@@ -1,12 +1,14 @@
 <h1 align="center">I'm Shankar JP</h1>
-<h3 align="center">CSE Sophomore at NIT Trichy</h3>
+<h3 align="center">CSE Undergrad at NIT Trichy</h3>
 
-[![Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/shankarjp)
-[![followers](https://img.shields.io/github/followers/shankarjp?style=social)](https://github.com/shankarjp?tab=followers)
-[![Repos Badge](https://badges.pufler.dev/repos/shankarjp)](https://github.com/shankarjp?tab=repositories)
-
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=I+Solve+Problems+With+Code)](https://git.io/typing-svg)
 <h4>
-- About Me
+<img src="https://i.imgur.com/LmOlfwe.gif" width="100" height="100" align="right">
+
+- Pre-final year student at [NIT Trichy](https://www.nitt.edu).
+- Check out my Resumé [here](https://drive.google.com/file/d/1hfV_LfpKvc6jd3SzUK65RBtMYpjzhkfb/view?usp=sharing).
+##
+
 </h4>
 
 [![Shankar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shankarjp&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -28,21 +30,18 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
 </p>
 
 ## Achievements
 <p>
+<a href="https://leetcode.com/shankarjp/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
 <a href="https://www.hackerrank.com/shankarjp12"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
 <a href="https://www.codechef.com/users/shankar_j_p"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
 <a href="https://codeforces.com/profile/shankarjp"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
